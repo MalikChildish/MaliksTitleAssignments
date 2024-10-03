@@ -1,0 +1,18 @@
+Sandbox_EN = {
+
+	Sandbox_HonorTags = "Honor Tags",
+	Sandbox_HonorTags_Offset = "Offset",
+	Sandbox_HonorTags_OffsetLimit = "Offset Limit",
+	Sandbox_HonorTags_VisibleRadius = "Visible Radius",
+	Sandbox_HonorTags_UsePersonalColor = "Use Personal Color",
+	Sandbox_HonorTags_UsePersonalColor_tooltip = "Use The Multiplayer Setting Color",
+
+
+	Sandbox_HonorTags_HrsPerTag = "Hrs Per Tag",
+	Sandbox_HonorTags_HrsPerTag_tooltip = "Hours Survived As Cost To Unlock Tags. Set to 0 Will Disable Feature",
+
+	Sandbox_HonorTags_KillsPerTag = "Zombie Kills Per Tag",
+	Sandbox_HonorTags_KillsPerTag_tooltip = "Zombie Kills As Cost To Unlock Tags. Set to 0 Will Disable Feature",
+
+}
+
